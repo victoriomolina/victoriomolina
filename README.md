@@ -1,16 +1,38 @@
-## Hi there 👋
+```text
+victorio@molina  -_________________________________________________________________________-__-
+. OS:  ........................................................... macOS Sequoia 15.3.1, Ubuntu
+. Uptime:  ........................................................................... 26 years
+. Burn time:  ........................................................................ 12 years
+. Host:  ........................................................................... Crush, Ltd
+. Kernel:  ........................................................... Full Stack, SW Architect
+. IDE:  ....................................................... LazyVim 16.0.0, VS Code 1.108.0
+.
+. Languages.Programming:  .......... Python, TypeScript, Node, React, Vue, C++, Postgres, NoSQL
+. Languages.Frameworks:  .......................... FastAPI, Express, Expo, Tailwind, Bootstrap
+. Languages.Computer:  ............................... Shell, HTML, XML, CSS, JSON, YAML, LaTeX
+. Languages.Real:  ........................................................... Spanish, English
+.
+. Experience:  ......................................................................... Voodoo
+. Hobbies.Software:  ............... Quant Trading, Drainage Attacks, Blockchain, Documentation
+. Hobbies.Life:  .......................................................................... N/A
+. Skills.Tech:  ..... Multi-agent Systems, Fine-tuning, Loop Engineering, Cloud, Agentic Coding
+. Skills.Design:  ........ Storytelling, Prototyping, Figma, Adobe Illustrator, DaVinci Resolve
+. Tokens/month:  .................................................................. 320M tokens
+. Models:  .......................................... Opus 4.8, Sonnet 5, GPT 5.4, Seedance 2.0
+.
+. Terminal:  ................................................ WezTerm, 20240203-110809-5046fc22 
+. Home:  ................................................................................ Spain
 
-<!--
-**victoriomolina/victoriomolina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Contact  -_______________________________________________________________________________-__-
+. Email.Personal:  ........................................................................ N/A
+. Email.Work:  ............................................................................ N/A
+. Linkdln:  .................................................................... VictorioMolina
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Stats  -_________________________________________________________________________________-__-
+. Longest streak  ..................................................................... 64 days
+. Hours/day  ............................................................................ 13.5h
+. Repos  ................................................................................... 45
+. Top commits (1 solo project)  .......................................................... 1264
+. Total followers  ........................................................................ 25k
+. Lines of Code  ........................................................................ 750k+
+```
