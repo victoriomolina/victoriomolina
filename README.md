@@ -8,7 +8,7 @@
 ~~~~~75#&&#######&&&&&&@@@@@@@@@@@@@@@@@@@&BY7~~~~   . IDE:  .................... LazyVim 16.0.0, VS Code 1.108.0
 ~~~~!5##G5Y5PPGB##&&&&&&&&&#BGGGB#&&@@@@@@@@#57!~~   .
 ~~~~JB#PYJ???JY5PGGGBBBBBP5YJJYY5PPGB####&@@@BJ!~~   . Lang.Coding:  .. Python, TypeScript, Node, React, Vue, C++
-~~~~YBG5J????77777???JJ???77??JYYYY5GGGPPB&@@#Y7~~   . Lang.DB:  ... NoSQL, Posgres, Firestore, Pinecone, Elastic
+~~~~YBG5J????77777???JJ???77??JYYYY5GGGPPB&@@#Y7~~   . Lang.DB:  .. NoSQL, Postgres, Firestore, Pinecone, Elastic
 ~~~~YBPYJJ??7777!!!~!!!!!!!!!7???JJYYY555P#&@#Y!~~   . Frameworks:  . FastAPI, Express, Expo, Tailwind, Bootstrap
 ~~~~JGPYJJ??777!!!!~~~~!!!!!!77??JJJYY55PG#&@#J!~~   . Lang.Computer:  . Shell, HTML, XML, CSS, JSON, YAML, LaTeX
 ~~~~?P5YJJ??77!!!!~~~~~~~!!!!77???JJY55PPG#&@B?!~~   . Lang.Real:  ............................. Spanish, English
@@ -36,5 +36,5 @@ PGGBBB###&&#BBGGBB###&&&&&&&&&&&&&&&###BG#&@@@@@@&
                                                      . Repos:  ............................................... 45
                                                      . Top commits (1 solo project):  ...................... 1264
                                                      . Total followers:  .. 25k (personal), 770k (sold meme page)
-                                                     . Lines of Code:  .................................... 750k+
+                                                     . Lines of code:  .................................... 750k+
 ```
